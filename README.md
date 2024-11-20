@@ -35,7 +35,7 @@ This  repository contains the code of two main folders, feature extraction and m
 
 If you find our work useful, please consider citing our paper:
 ```
-Comming soon
+Xiao Liang, Yin Wang, Di Wang*, Zhicheng Jiao, Haodi Zhong, Mengyu Yang and Quan Wang. Leveraging coarse-to-fine grained representations in contrastive learning for differential medical visual question answering [C]. The 27th International Conference on Medical Image Computing and Computer Assisted Intervention, 2024, Marrakesh, Morocco, 2024.10.6-10.10.  
 ```
 
 
